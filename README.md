@@ -1,2 +1,3 @@
 # github_learning
-for personal learning
+for Academic Writing
+author: 台子安
